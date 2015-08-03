@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=
+Type=Application
+Exec=/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/scripts/emc
+Icon=/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/linuxcncicon.png
+X-GNOME-DocPath=
+Terminal=false
+Name=EMC2 (run-in-place)
+Comment=The Enhanced Machine Controller
+StartupNotify=false
+Categories=X-CNC;

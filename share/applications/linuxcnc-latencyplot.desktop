@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=
+Type=Application
+Exec=/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/scripts/latencyplot
+Icon=/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/linuxcncicon.png
+X-GNOME-DocPath=
+Terminal=false
+Name=Latency Test Stripchart (run-in-place)
+Comment=Plot your machine's latency
+StartupNotify=false
+Categories=X-CNC;

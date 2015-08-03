@@ -1,0 +1,1 @@
+cmd_/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/bin2gray.o := ld -m elf_i386   -r -o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/bin2gray.o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/objects/hal/components/bin2gray.o 

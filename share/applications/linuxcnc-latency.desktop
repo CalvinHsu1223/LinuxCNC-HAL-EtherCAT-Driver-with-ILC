@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=
+Type=Application
+Exec=/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/scripts/latency-test
+Icon=/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/linuxcncicon.png
+X-GNOME-DocPath=
+Terminal=false
+Name=Latency Test (run-in-place)
+Comment=Determine your machine's latency
+StartupNotify=false
+Categories=X-CNC;

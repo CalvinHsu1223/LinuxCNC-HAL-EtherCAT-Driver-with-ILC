@@ -1,0 +1,1 @@
+cmd_/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/gantrykins.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-122-rtai/scripts/module-common.lds --build-id -o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/gantrykins.ko /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/gantrykins.o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/gantrykins.mod.o

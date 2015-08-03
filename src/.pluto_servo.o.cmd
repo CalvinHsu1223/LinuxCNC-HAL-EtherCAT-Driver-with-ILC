@@ -1,0 +1,1 @@
+cmd_/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/pluto_servo.o := ld -m elf_i386   -r -o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/pluto_servo.o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/objects/hal/drivers/pluto_servo.o 

@@ -1,0 +1,1 @@
+cmd_/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/hal_ax5214h.o := ld -m elf_i386   -r -o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/hal_ax5214h.o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/hal/drivers/hal_ax5214h.o 

@@ -1,0 +1,1 @@
+cmd_/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/threads.o := ld -m elf_i386   -r -o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/threads.o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/hal/components/threads.o 

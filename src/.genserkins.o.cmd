@@ -1,0 +1,1 @@
+cmd_/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/genserkins.o := ld -m elf_i386   -r -o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/genserkins.o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/libnml/posemath/sincos.o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/emc/kinematics/genserkins.o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/libnml/posemath/gomath.o 

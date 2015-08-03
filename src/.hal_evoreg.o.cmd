@@ -1,0 +1,1 @@
+cmd_/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/hal_evoreg.o := ld -m elf_i386   -r -o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/hal_evoreg.o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/hal/drivers/hal_evoreg.o 

@@ -1,0 +1,1 @@
+cmd_/home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/boss_plc.o := ld -m elf_i386   -r -o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/boss_plc.o /home/yutingkao23/ILC-with-LinuxCNC-ILCv1/src/hal/components/boss_plc.o 
